@@ -1,0 +1,28 @@
+body{
+ text-align:center;   
+
+}
+.my_nav_bar{
+   position:sticky; 
+    top:0;
+    z-index:99999;
+}
+#achievments{
+   height:auto; 
+    margin-top:1000px,
+}
+#3{
+  height:100px;   
+}
+#title{
+  text-transform:uppercase;   
+    text-emphasis-style:filled;
+   color:blue;
+     background-image: linear-gradient(orange, white, green);
+    
+}
+#r{
+    margin-right:80px;
+}
+
+
